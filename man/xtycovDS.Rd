@@ -4,7 +4,7 @@
 \alias{xtycovDS}
 \title{Estimation of lambda max}
 \usage{
-xtycovDS(x, y, covar, betaCov)
+xtycovDS(x, y, covar, type, betaCov)
 }
 \arguments{
 \item{x}{One matrix for multiplication}
